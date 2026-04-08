@@ -4,7 +4,7 @@
 
 ## The Java Programming Language
 
-- In the Java programming language all code is written in plain text files ending with .java extension. Those source files are then compiled into .class files byt the java compiler. 
+- In the Java programming language all code is written in plain text files ending with .java extension. Those source files are then compiled into .class files by the java compiler. 
 
 - A *.class* file doesn not contain the code that is native to our processor, it instead contains **bytecodes**- the machine language of the **Java Virtual Machine**. 
 
