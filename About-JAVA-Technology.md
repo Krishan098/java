@@ -59,3 +59,5 @@ class HelloWorldApp{
     - **Deployment Technologies**: The JDK software provides standard mechanisms such as the java web start sofware and java plug-in software for deploying your applications to end users.
     - **Users interface toolkits**:The JavaFX, Swing and Java 2D toolkits make it possible to create sophisticated Graphical User Interfaces.
     - **Integration Libraries**: Integration libraries such as the Java IDL API, JDBC API, Java Naming and Directory Interface(JNDI) API, Java RMI, and Java Remote Method Invocation over Internet Inter-ORB Protocol Technology enable database access and manipulation of remote objects.
+
+##### Starting with Java SE 22, our program can even be distributed among several files.
