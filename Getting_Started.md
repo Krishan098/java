@@ -7,6 +7,7 @@
 
 ### Convention to name the fies:
 - The name of a Java file should start with a capital letter.
+- The first character needs to be a letter.
 
 ### JAVA Components
 
