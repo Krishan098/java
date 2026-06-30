@@ -44,7 +44,7 @@ public static void main(String[] args)
 ```
 - the modifiers public and static can be written in any order but the convention is to use public static as shown above. we can name the argument anything we want.
 
-- The main method is the entry point to the application and will subsequently invoke al l the other methods.
+- The main method is the entry point to the application and will subsequently invoke all the other methods.
 
 - The main method in this example accepts a single argument: an array of elements of type String.
 

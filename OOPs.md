@@ -68,7 +68,7 @@ class BicycleDemo{
 ```
 ### What is Inheritance
 
-- Different kinds of objects often have a certain amount in common with each other. Mountain bikes, road bikes,and tandem bikes, for example, all share the characterstics of bicycles. Yet each also defines additional features that make them different: tandem bicycles have 2 seats and 2 sets of handlebars; road bikes have drop handlesbars; some mountain bikes have an additional chain ring, giving them a lower gear ratio.
+- Different kinds of objects often have a certain amount in common with each other. Mountain bikes, road bikes,and tandem bikes, for example, all share the characterstics of bicycles. Yet each also defines additional features that make them different: tandem bicycles have 2 seats and 2 sets of handlebars; road bikes have drop handlebars; some mountain bikes have an additional chain ring, giving them a lower gear ratio.
 
 - Object-oriented programming allows classes to inherit commonly used state and behavior from other classes. In this example, Bicycle is the superclass of MountainBike, RoadBike and TandemBike. 
 

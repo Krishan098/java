@@ -1,4 +1,3 @@
-
 interface Bicycle_1{
     void changeCadence(int newValue);
     void changeGear(int newValue);

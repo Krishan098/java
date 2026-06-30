@@ -5,7 +5,7 @@
 3. The file produced by a compiler is called a binary file or an executable file. This compiled code contains special binary codes called *byte code*.
 4. Compilation and execution require two specific pieces of software that are part of the Java Development Kit.
 
-### Convention to name the fies:
+### Convention to name the files:
 - The name of a Java file should start with a capital letter.
 - The first character needs to be a letter.
 
